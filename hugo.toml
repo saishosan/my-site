@@ -1,4 +1,16 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My first blog'
-theme = 'ananke'
+theme = 'm10c'
+
+[params]
+author = "saisho"
+avatar = "https://images.app.goo.gl/KABQEAeirQD6DF2k8"
+description = "engine"
+
+[[params.social]]
+icon = "github"
+name = "my github"
+url = "https://github.com/saishosan"
+
+
